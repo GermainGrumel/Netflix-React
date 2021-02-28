@@ -1,3 +1,9 @@
+# Final Result
+https://netflix-clone-16ca4.web.app/
+
+# Workflow status
+Work in progress
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
